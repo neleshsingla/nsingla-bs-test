@@ -2,6 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
   name: Brandwatch
+  version: 2.1
   description: The official Brandwatch REST API for client/project/user management
 spec:
   type: openapi
