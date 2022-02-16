@@ -8,4 +8,4 @@ spec:
   lifecycle: experimental
   owner: team-c
   definition:
-    $text: https://github.com/neleshsingla/nsingla-bs-test/blob/main/apispec.yaml
+    $text: https://github.com/neleshsingla/nsingla-bs-test/blob/main/swagger.yaml
