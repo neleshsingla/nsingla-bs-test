@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Brandwatch-Moneta
-  description: The official Brandwatch ARC API for user profile management
+  name: Moneta
+  description: The official Brandwatch RPC API for user profile management
 spec:
   type: grpc
   lifecycle: experimental
