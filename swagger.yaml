@@ -44,7 +44,7 @@ paths:
           description: OK
           schema:
             $ref: '#/definitions/PaginationDTO«ActiveQuerySummaryDTO»'
-          example:
+          examples:
             application/json: { "id": 38, "title": "T-shirt" }
         '401':
           description: Unauthorized
